@@ -1,0 +1,2 @@
+rootProject.name='perperkeyboard2'
+include ':app'
